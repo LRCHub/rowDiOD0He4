@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜桜（feat. めいちゃん）",
+  "base_artist": "くじら",
+  "createdAt": "2026-03-06T02:30:47.814152Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜桜 (feat. めいちゃん)",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_01_夜桜_(feat._めいちゃん)_くじら.txt"
+    }
+  ]
+}
